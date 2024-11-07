@@ -8,13 +8,13 @@ Neste exercício, você vai escrever um programa que:
 4. Apresente os dados da matriz
 5. Desaloque a memória alocada
 
-Exemplo de entrada:
-2 3
-1 2 3 4 5 6
-
-Saída esperada:
-1 2 3
-4 5 6
+Exemplo de entrada:<br/>
+2 3<br/>
+1 2 3 4 5 6<br/>
+<br/>
+Saída esperada:<br/>
+1 2 3<br/>
+4 5 6<br/>
 
 Obs: Caso a matriz seja vazia, a saída esperada é [matriz vazia]
 
